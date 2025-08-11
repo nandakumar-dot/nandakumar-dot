@@ -1,10 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Nandakumar</h1>
-<h3 align="center">I'm in my "DO MY OWN THING" phase</h3>
-<div align="center">
-  <img height="300" width="500" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" />
-</div>
 
-- 🌱 I’m currently learning **Generative AI and LLMs**
 
 - 📫 How to reach me **nandakumarpalaril@gmail.com**
 
